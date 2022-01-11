@@ -1,0 +1,37 @@
+body{
+    background-size:cover;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+.heading{
+    width:100%;
+    font-family: 'Shizuru', cursive;
+    font-size:40px;
+    padding:10px;
+    color:white;
+    background-color:crimson;
+    text-align:left;
+}
+.ins{
+    displaY:inline;
+    color:crimson;
+    float:right;
+    border:2px dotted black
+}
+.footer{
+    bottom:0;
+    position:fixed;
+    width:100%;
+    line-height:4;
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    background-color:white;
+    font-family: 'Shizuru', cursive;
+
+    
+}
+canvas{
+    margin:30px;
+    border:3px solid white;
+}
